@@ -1,0 +1,25 @@
+* {
+    margin:0%;
+    padding: 0%;
+}
+
+.dogs {
+    justify-content:center;
+    display:flex;
+    margin-top:4rem;
+}
+
+.dogs > div {
+    display:inline-block;
+}
+
+h3 {
+    text-align:center;
+}
+
+img {
+    object-fit:cover;
+    margin: 8px;
+}
+
+
